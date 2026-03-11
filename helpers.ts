@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-07T17:29:09.383Z
-Commit: Fix broken links in documentation
+Timestamp: 2026-03-11T05:36:08.510Z
+Commit: Add multi-language support
